@@ -5,11 +5,11 @@
 	<key>version</key>
 	<dict>
 		<key>major</key>
-		<integer>2</integer>
+		<integer>3</integer>
 		<key>minor</key>
-		<integer>5</integer>
-		<key>patch</key>
 		<integer>0</integer>
+		<key>patch</key>
+		<integer>1</integer>
 	</dict>
 </dict>
 </plist>
